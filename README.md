@@ -1,4 +1,4 @@
-# ICRA 2026
+# ICRA 2026 ERL Poster
 
 Find the poster contributions of the Environmental Robotics Lab of Munich Institute of Robotics and Machine Intelligence (MIRMI), Technical University of Munich (TUM) here:
 
