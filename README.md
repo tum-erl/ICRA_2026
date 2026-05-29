@@ -10,3 +10,6 @@ Find the poster contributions of the Environmental Robotics Lab of Munich Instit
 
 ## Agri-robotics Workshop @ICRA 2026 
 [*"Biodiversity in the Loop: Can Field Robots Learn Ecologically Aware Management"*](2026_ICRA_Agri_WS_Biodiversity_in_the_Loop.pdf), Lennart Troesken and Daniel A Duecker
+
+## Robotics for Environmental and Climate Assessment Workshop @ICRA 2026 
+[*"Learning-Based Robotics as an Enabler for Biodiversity-Aware Agroforestry Systems"*](2026_ICRA_REaCT_Learning_Based_Robotics_as_an_Enabler_for_Agroforestry_Systems.pdf), Lennart Troesken and Daniel A Duecker
